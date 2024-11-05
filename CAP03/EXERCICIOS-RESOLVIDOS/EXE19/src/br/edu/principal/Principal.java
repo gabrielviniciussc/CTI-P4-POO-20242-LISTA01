@@ -17,5 +17,4 @@ public class Principal {
 		
 		System.out.print("A quantidade de degraus necessários para atingir a altura fornecida é igual a: " + qtd_degraus);
 	}
-
 }
