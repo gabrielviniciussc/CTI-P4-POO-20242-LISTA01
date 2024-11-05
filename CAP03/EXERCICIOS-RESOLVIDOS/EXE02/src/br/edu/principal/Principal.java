@@ -18,5 +18,4 @@ public class Principal {
 	    System.out.print("A média aritmética dessas 3 notas é: " + media);
 	    
 	}
-
 }
